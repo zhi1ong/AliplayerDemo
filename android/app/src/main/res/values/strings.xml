@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AliPlayer</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="sts_token">获取 STS Token</string>
+    <string name="prepare">准备视频信息</string>
+    <string name="play">开始播放</string>
+    <string name="stop">停止播放</string>
+    <string name="init">初始化</string>
+</resources>
