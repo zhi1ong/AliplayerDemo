@@ -209,3 +209,6 @@ public class MyApplication {
 1. 新建一个 Android 工程，推荐使用 Android Studio 进行开发
 2. 复制 sdk 中的 aar 文件到 libs 目录下
 3. 这部分代码内容较多，请参考 Demo 工程进行配置 
+
+#### 五、视频教程
+[教程优酷地址](http://v.youku.com/v_show/id_XMzUwMzI3OTIxNg==.html)，观看需要 45min
